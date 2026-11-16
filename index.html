@@ -944,8 +944,12 @@
     .spotlight-actions .btn-action { flex: 1 1 auto; justify-content: center; font-size: 0.78rem; padding: 8px 10px; }
 
     #pdf-drawer { padding: 12px; max-height: 70vh; }
-    .pdf-drawer-header { gap: 10px; }
-    .pdf-drawer-header .ctrl-btn { flex-shrink: 0; white-space: nowrap; padding: 7px 10px; font-size: 0.76rem; }
+    .pdf-drawer-header { flex-direction: column; align-items: stretch; gap: 10px; }
+    .pdf-drawer-header > div, .pdf-drawer-header h3, .pdf-item-info, .pdf-item-title, .pdf-item-sub {
+      min-width: 0;
+      overflow-wrap: anywhere;
+    }
+    .pdf-drawer-header .ctrl-btn { width: 100%; justify-content: center; padding: 8px 10px; font-size: 0.78rem; }
     .pdf-item { flex-direction: column; align-items: flex-start; padding: 10px 12px; }
     .pdf-item-actions { width: 100%; flex-wrap: wrap; }
     .pdf-item-actions .btn-action { flex: 1 1 auto; justify-content: center; font-size: 0.76rem; padding: 7px 10px; }
