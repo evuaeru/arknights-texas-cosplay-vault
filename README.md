@@ -2,6 +2,11 @@
 
 Koleksi khusus foto studio *cosplay* asli & *photobook* resolusi tertinggi (tanpa watermark platform, 4:4:4 chroma Q96, terdeduplikasi secara perseptual `dHash` 100%) untuk **Master Zay**.
 
+## 🌐 Akses Online via GitHub Pages (HP & Desktop)
+- **Live Gallery (Mobile & Desktop):** https://evuaeru.github.io/arknights-texas-cosplay-vault/
+- **Repository GitHub:** https://github.com/evuaeru/arknights-texas-cosplay-vault
+- **66 PDF Photobooks (GitHub Release v1.0.0):** https://github.com/evuaeru/arknights-texas-cosplay-vault/releases/tag/v1.0.0
+
 ## Ringkasan Verifikasi
 - **Lokasi Vault**: `E:\Dokumen\Arknights_Texas_Cosplay_Vault`
 - **Backup File Mentah Ber-Watermark (Original CDN)**: `E:\Dokumen\Tools_dan_Backup\Arknights_Texas_Watermarked_Originals_Backup`
